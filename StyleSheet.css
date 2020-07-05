@@ -1,0 +1,19 @@
+ 
+
+body{
+    background-color: #7d6f94;
+}
+
+
+#header {
+            background-color: #2b016f;
+            text-align: center;
+            padding: 0px 0px 5px 0px;
+        }
+
+        #song-list {
+            background-color: aqua;
+            padding 5px 5px 10px 10px;
+
+
+        }
