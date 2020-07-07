@@ -1,52 +1,52 @@
-
-
-
 body {
-     background-color: #1a1252;
-     border-top: 90px solid #946b41;
-     z-index: 1;
- }
+    background-color: #535578;
+    border-top: 90px solid #11112b;
+    z-index: 1;
+}
 
 
- #header {
-     position: absolute;
-     top: 5px;
-     left: 45%;
-     vertical-align: middle;
-     z-index: 2;
+#header {
+    position: absolute;
+    top: 5px;
+    left: 45%;
+    vertical-align: middle;
+    z-index: 2;
 
- }
+}
 
- #song-list {
-     background-color: #b08962;
-     text-align: center;
-     border: 10px groove red;
-     padding-bottom: 15px;
-     padding-top: 15px;
+#song-list {
+    background-color: #cab7b3;
+    text-align: center;
+    border: 10px solid #2f2f3b;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    
 
- }
+}
 
- #song-div {
-     padding: 150px 30% 10px 30%;
+#song-div {
+    padding: 30px 30% 10px 30%;
+    margin-top: 20px;
+    
 
- }
+}
 
- #container {
-     border: 8px solid #74ce0d;
-     margin-left: auto;
-     border-top: 5px dotted #0d2dce;
-     padding: 10px 10px 10px 20px;
- }
+#container {
+    border: 5px dashed #457825;
+    margin-left: auto;
+    border-top: 5px dotted #457825;
+    padding: 10px 10px 10px 20px;
+}
 
-h1{
-    font-family: Lucida Console;
-    color: azure;
+h1 {
+    font-family: monospace;
+    color: #000747azure;
     text-align: center;
 }
 
-p{
-    font-family: Lucida Console;
-    color: azure;
+p {
+    font-family: sans-serif;
+    color: #011473;
     text-align: center;
 
 }
