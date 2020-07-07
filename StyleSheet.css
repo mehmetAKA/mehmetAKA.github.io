@@ -1,24 +1,52 @@
- body {
-     background-color: #7d6f94;
+
+
+
+body {
+     background-color: #1a1252;
+     border-top: 90px solid #946b41;
+     z-index: 1;
  }
 
 
  #header {
-     background-color: #2b016f;
-     text-align: center;
-     padding: 0px 0px 5px 0px;
+     position: absolute;
+     top: 5px;
+     left: 45%;
+     vertical-align: middle;
+     z-index: 2;
+
  }
 
  #song-list {
-     background-color: aqua;
-     padding 5px 5px 10px 10px;
+     background-color: #b08962;
+     text-align: center;
+     border: 10px groove red;
+     padding-bottom: 15px;
+     padding-top: 15px;
 
+ }
+
+ #song-div {
+     padding: 150px 30% 10px 30%;
 
  }
 
  #container {
-     border: 2px solid #74ce0d;
+     border: 8px solid #74ce0d;
      margin-left: auto;
      border-top: 5px dotted #0d2dce;
      padding: 10px 10px 10px 20px;
  }
+
+h1{
+    font-family: Lucida Console;
+    color: azure;
+    text-align: center;
+}
+
+p{
+    font-family: Lucida Console;
+    color: azure;
+    text-align: center;
+
+}
